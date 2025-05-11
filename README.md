@@ -8,7 +8,7 @@
 - Masaüstü Uygulamalar (C# WinForms / WPF)
 - Python ile Otomasyon, Web Scraping ve Veri İşleme
 - Veritabanı Uygulamaları (özellikle **SQL Server** ile)
-- Discord Botları ve Kullanıcı Araçları
+- Kullanıcı Araçları
 - Kullanıcı Dostu Arayüz ve CRUD Sistemleri
 
 ### 📌 Hedefim:
